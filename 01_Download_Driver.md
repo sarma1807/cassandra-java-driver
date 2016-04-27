@@ -8,7 +8,7 @@ Downloaded `cassandra-java-driver-3.0.0.tar.gz` which was published on 2016-01-2
 
 [cass@metalgear ~]$ `cd /tmp/`
 
-[cass@metalgear tmp]$ `ls -lh cassandra-java-driver-3.0.0.tar.gz`
+[cass@metalgear tmp]$ `ls -lh cassandra-java-driver-3.0.0.tar.gz` <br>
 -rw-r--r-- 1 cass cassgrp 9.1M Apr 27 19:37 cassandra-java-driver-3.0.0.tar.gz
 
 [cass@metalgear tmp]$ `tar -xvf cassandra-java-driver-3.0.0.tar.gz`
@@ -17,7 +17,7 @@ Downloaded `cassandra-java-driver-3.0.0.tar.gz` which was published on 2016-01-2
 
 [cass@metalgear tmp]$ `cd /u02/cass/cassandra-java-driver-3.0.0/`
 
-[cass@metalgear cassandra-java-driver-3.0.0]$ `pwd`
+[cass@metalgear cassandra-java-driver-3.0.0]$ `pwd` <br>
 /u02/cass/cassandra-java-driver-3.0.0
 
 [cass@metalgear cassandra-java-driver-3.0.0]$ `find $PWD`
@@ -752,5 +752,3 @@ Downloaded `cassandra-java-driver-3.0.0.tar.gz` which was published on 2016-01-2
 /u02/cass/cassandra-java-driver-3.0.0/src/cassandra-driver-mapping-3.0.0-src.zip
 /u02/cass/cassandra-java-driver-3.0.0/src/cassandra-driver-extras-3.0.0-src.zip
 ```
-
-[cass@metalgear cassandra-java-driver-3.0.0]$
