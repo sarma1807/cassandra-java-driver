@@ -16,7 +16,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.72-b15, mixed mode)
 
 [cass@metalgear ~]$ `javac -classpath /u01/cass/cassandra-java-driver-3.0.0/cassandra-driver-core-3.0.0.jar:. getCassClusterInfo.java`
 
-NO OUTPUT, but compiled getCassClusterInfo.class` file got generated.
+NO OUTPUT, but compiled `getCassClusterInfo.class` file got generated.
 
 ---
 
@@ -33,7 +33,7 @@ SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further detail
 -------------------------------------------------------
 Cassandra Cluster Information
 -------------------------------------------------------
-Cluster Name : waltham_cass_cluster
+Cluster Name : my_cass_cluster
 Partitioner Name : org.apache.cassandra.dht.Murmur3Partitioner
 -------------------------------------------------------
 Cluster Nodes :
@@ -66,3 +66,5 @@ Replication Factor: { replication_factor:1 , class:org.apache.cassandra.locator.
 
 -------------------------------------------------------
 ```
+
+---
