@@ -1,6 +1,6 @@
 #### compile java program
 
-[cass@metalgear ~]$ `javac -classpath /u01/cass/cassandra-java-driver-3.0.0/cassandra-driver-core-3.0.0.jar:. readWriteCassEmp.java`
+[cass@metalgear ~]$ <br> `javac -classpath /u01/cass/cassandra-java-driver-3.0.0/cassandra-driver-core-3.0.0.jar:. readWriteCassEmp.java`
 
 NO OUTPUT, but compiled `readWriteCassEmp.class` file got generated.
 
@@ -8,7 +8,7 @@ NO OUTPUT, but compiled `readWriteCassEmp.class` file got generated.
 
 #### run java program
 
-[cass@metalgear ~]$ `java -classpath /u01/cass/cassandra-java-driver-3.0.0/*:/u01/cass/cassandra-java-driver-3.0.0/lib/*:. readWriteCassEmp`
+[cass@metalgear ~]$ <br> `java -classpath /u01/cass/cassandra-java-driver-3.0.0/*:/u01/cass/cassandra-java-driver-3.0.0/lib/*:. readWriteCassEmp`
 
 
 Output :
