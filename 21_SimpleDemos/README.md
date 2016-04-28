@@ -1,4 +1,4 @@
-## basic INSERT & SELECT
+#### basic INSERT & SELECT
 
 `01_cassdemo_emp_cassandraTable.cql` Apache Cassandra CQL commands to create demo keyspace and employee table.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Cassandra Cluster Information
+#### Cassandra Cluster Information
 
 `getCassClusterInfo.java` Java program to retrieve Cassandra Cluster Information using cassandra-java-driver.
 
