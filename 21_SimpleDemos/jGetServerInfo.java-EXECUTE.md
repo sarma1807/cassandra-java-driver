@@ -16,7 +16,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.72-b15, mixed mode)
 
 [cass@metalgear ~]$ `javac -classpath /u01/cass/cassandra-java-driver-3.0.0/cassandra-driver-core-3.0.0.jar:. jGetServerInfo.java`
 
-NO OUTPUT, but compiled `readWriteCassEmp.class` file got generated.
+NO OUTPUT, but compiled `jGetServerInfo.class` file got generated.
 
 ---
 
@@ -28,9 +28,9 @@ Output :
 ```
 --------------------------------------------------------------------
 
-Server IP   : 132.197.63.157
+Server IP   : 192.168.0.57
 
-Server Name : metalgear6 : metalgear6.dhcp.verizon.com
+Server Name : metalgear : metalgear.mycompany.com
 
 --------------------------------------------------------------------
 ```
