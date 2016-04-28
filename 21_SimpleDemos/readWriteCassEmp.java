@@ -13,7 +13,7 @@ public class readWriteCassEmp
 		// cluster = Cluster.builder().addContactPoint("127.0.0.1").build() ;
 		// cluster = Cluster.builder().addContactPoint("192.168.0.67").build() ;
 		// cluster = Cluster.builder().addContactPoints("192.168.0.67,192.168.0.76,192.168.0.88").build() ;
-		cluster = Cluster.builder().addContactPoint("132.197.63.91").build() ;
+		cluster = Cluster.builder().addContactPoint("192.168.0.67").build() ;
 
 		// connect to cassdemo cassandra keyspace
 		session = cluster.connect("cassdemo") ;
