@@ -1,4 +1,4 @@
-** compile java program **
+__compile java program__
 
 [cass@metalgear ~]$ `javac -classpath /u01/cass/cassandra-java-driver-3.0.0/cassandra-driver-core-3.0.0.jar:. readWriteCassEmp.java`
 
