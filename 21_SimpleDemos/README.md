@@ -16,4 +16,10 @@
 
 ---
 
+`jGetServerInfo.java` Java program to retrieve Server IP and Hostname Information.
+
+`jGetServerInfo.java-EXECUTE.md` Commands to compile & run Java program along with output.
+
+---
+
 NOTE : JAVA CODE IS WRITTEN FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT OPTIMIZED, NOR WRITTEN BY A PROFESSIONAL JAVA PROGRAMMER.
