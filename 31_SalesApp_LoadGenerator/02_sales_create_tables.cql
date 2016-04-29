@@ -124,3 +124,4 @@ CREATE TABLE sales.sales_order_products
 ALTER TABLE sales.sales_orders WITH default_time_to_live = 1296000 ;
 
 ALTER TABLE sales.sales_order_products WITH default_time_to_live = 1296000 ;
+
