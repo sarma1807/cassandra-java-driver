@@ -31,3 +31,6 @@
 `crontab_for_auto_order_generation.md` crontab entries to automatically generate Orders.
 
 ---
+
+NOTE : JAVA CODE IS WRITTEN FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT OPTIMIZED, NOR WRITTEN BY A PROFESSIONAL JAVA PROGRAMMER.
+
