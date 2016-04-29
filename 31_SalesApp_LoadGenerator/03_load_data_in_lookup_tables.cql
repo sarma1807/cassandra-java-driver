@@ -1,3 +1,4 @@
+
 INSERT INTO sales.lookup_email_servers (id, email_server) VALUES (001, '@gmail.com') ;
 INSERT INTO sales.lookup_email_servers (id, email_server) VALUES (002, '@yahoo.com') ;
 INSERT INTO sales.lookup_email_servers (id, email_server) VALUES (003, '@aol.com') ;
