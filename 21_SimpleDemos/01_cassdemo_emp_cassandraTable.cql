@@ -14,3 +14,4 @@ CREATE TABLE cassdemo.emp (
 -- insert some sample data into employees table
 INSERT INTO cassdemo.emp (empid, deptid, first_name, last_name) VALUES (1001, 100, 'Scott', 'Tiger') ;
 INSERT INTO cassdemo.emp (empid, deptid, first_name, last_name) VALUES (1003, 300, 'Queen', 'John') ;
+
