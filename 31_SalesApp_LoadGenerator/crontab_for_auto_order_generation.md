@@ -1,4 +1,4 @@
-Edit linux user's crontab entries to schedule automatic execution of any script.
+Edit linux user's crontab entries to schedule automatic execution of any script/command.
 
 [cass@metalgear ~]$ `crontab -e`
 
